@@ -1,0 +1,13 @@
+Technology_Area,Market_Size_Billions,Growth_Rate_Percent,Adoption_Stage,Client_Demand_Level,Expertise_Gap
+Artificial Intelligence,35.2,22.4,Early Majority,Very High,High
+Cloud Computing,28.9,14.7,Late Majority,High,Medium
+Cybersecurity,18.6,15.2,Early Majority,Very High,High
+Data Analytics,24.3,11.8,Late Majority,High,Medium
+Digital Transformation,45.8,12.5,Early Majority,Very High,Medium
+Automation/RPA,12.4,18.3,Early Adopters,High,High
+Blockchain,3.8,28.9,Innovators,Medium,Very High
+IoT,8.7,16.2,Early Adopters,Medium,High
+Quantum Computing,0.9,45.2,Innovators,Low,Very High
+ESG Technology,6.2,25.1,Early Adopters,High,High
+5G Implementation,4.3,19.8,Early Adopters,Medium,High
+Edge Computing,2.1,31.4,Innovators,Low,Very High

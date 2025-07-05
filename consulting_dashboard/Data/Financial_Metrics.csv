@@ -1,0 +1,26 @@
+Role_Level,Firm_Category,Hourly_Rate_Min,Hourly_Rate_Max,Revenue_Per_Employee,Utilization_Rate
+Partner,Big Four,800,1500,180000,75
+Partner,MBB,1200,2500,420000,80
+Partner,Technology,600,1200,175000,78
+Partner,Regional,600,1200,195000,72
+Partner,Boutique,800,1800,380000,85
+Principal,Big Four,600,1000,165000,80
+Principal,MBB,800,1500,380000,82
+Principal,Technology,500,900,160000,81
+Principal,Regional,450,850,170000,78
+Principal,Boutique,650,1200,320000,85
+Manager,Big Four,400,700,145000,85
+Manager,MBB,500,900,280000,85
+Manager,Technology,350,600,140000,84
+Manager,Regional,350,650,155000,83
+Manager,Boutique,450,800,250000,88
+Senior Consultant,Big Four,250,400,125000,88
+Senior Consultant,MBB,300,500,220000,87
+Senior Consultant,Technology,220,380,120000,87
+Senior Consultant,Regional,220,380,135000,86
+Senior Consultant,Boutique,280,450,190000,90
+Consultant,Big Four,150,250,95000,90
+Consultant,MBB,200,350,180000,88
+Consultant,Technology,130,220,85000,89
+Consultant,Regional,130,220,105000,87
+Consultant,Boutique,180,320,145000,92

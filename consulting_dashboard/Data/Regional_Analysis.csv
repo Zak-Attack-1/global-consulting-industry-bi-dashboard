@@ -1,0 +1,13 @@
+Region,Market_Share_Percent,Growth_Rate_Percent,Key_Sectors,Competitive_Intensity,Economic_Maturity
+North America,44.5,4.2,Financial Services;Technology;Healthcare,Very High,Mature
+Europe,30.2,3.8,Financial Services;Manufacturing;Public Sector,High,Mature
+Asia Pacific,20.1,8.5,Technology;Manufacturing;Government,Medium,Growth
+Middle East Africa,3.7,6.2,Oil & Gas;Government;Infrastructure,Medium,Emerging
+Latin America,1.5,4.8,Government;Infrastructure;Natural Resources,Low,Emerging
+China,8.9,12.1,Technology;Manufacturing;Government,High,Growth
+India,4.2,10.8,Technology;Financial Services;Government,Medium,Growth
+Japan,3.1,2.9,Manufacturing;Technology;Financial Services,High,Mature
+Australia,2.8,5.4,Natural Resources;Financial Services;Government,Medium,Mature
+United Kingdom,8.7,3.2,Financial Services;Technology;Public Sector,Very High,Mature
+Germany,6.4,4.1,Manufacturing;Automotive;Technology,High,Mature
+France,4.9,3.6,Aerospace;Energy;Public Sector,Medium,Mature

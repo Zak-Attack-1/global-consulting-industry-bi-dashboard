@@ -1,0 +1,16 @@
+Service_Area,Revenue_Billions,Growth_Rate_Percent,Firm_Category,Specialization_Level,Market_Maturity
+Digital Transformation,98.3,12.5,All,High,Emerging
+Strategy Consulting,45.2,5.2,MBB,Very High,Mature
+Technology Implementation,76.8,9.8,Technology,High,Growth
+Financial Advisory,52.1,6.1,Big Four,Medium,Mature
+Operations Consulting,38.9,4.2,All,Medium,Mature
+Risk & Compliance,41.2,7.3,Big Four,High,Growth
+Human Capital,28.6,3.8,All,Medium,Mature
+Supply Chain,22.4,6.7,All,Medium,Mature
+Cybersecurity,18.9,15.2,Technology,Very High,Emerging
+ESG & Sustainability,12.8,18.9,All,High,Emerging
+Data & Analytics,35.7,11.3,Technology,High,Growth
+Change Management,19.3,4.9,All,Medium,Mature
+Mergers & Acquisitions,31.5,8.2,Big Four,High,Growth
+Public Sector,42.7,5.8,All,Medium,Mature
+Healthcare Consulting,24.1,7.9,Specialized,High,Growth
